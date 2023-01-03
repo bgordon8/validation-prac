@@ -1,6 +1,7 @@
 .button {
   font: inherit;
   border: 1px solid cornflowerblue;
+  border-radius: 10px;
   background: #4f4f4f;
   color: white;
   padding: 0.25rem 1rem;
